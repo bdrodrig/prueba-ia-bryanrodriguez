@@ -298,6 +298,20 @@ class CustomerServiceAgent:
         }
 
 
+_agent_instance: Optional["CustomerServiceAgent"] = None
+
+
+def get_agent_instance() -> "CustomerServiceAgent":
+    """Singleton compartido -- tanto la API REST (routers/agent.py) como el
+    servidor MCP (src/mcp/server.py) deben usar ESTA misma instancia, para
+    que una conversación iniciada por un canal pueda continuar por el otro
+    (las sesiones viven en memoria dentro del objeto agent)."""
+    global _agent_instance
+    if _agent_instance is None:
+        _agent_instance = CustomerServiceAgent()
+    return _agent_instance
+
+
 if __name__ == "__main__":
     agent = CustomerServiceAgent()
 
