@@ -1,0 +1,801 @@
+description,category,priority,created_hour,created_dow,resolution_time_hours
+Tengo una consulta general sobre mi cuenta,OTHR,medium,7,2,7.3
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,23,5,5.15
+Necesito cancelar mi servicio lo antes posible,CNCL,low,14,1,4.61
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,9,3,1.49
+Tengo una consulta general sobre mi cuenta,OTHR,medium,11,1,5.42
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,6,0,5.65
+El internet está muy lento y no logro conectarme bien,TECH,low,22,1,12.33
+Mi factura tiene un cobro que no reconozco este mes,BILL,high,3,6,2.35
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,8,4,5.65
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,high,10,4,1.89
+El internet está muy lento y no logro conectarme bien,TECH,medium,19,4,5.47
+Tengo una consulta general sobre mi cuenta,OTHR,low,2,1,8.67
+El internet está muy lento y no logro conectarme bien,TECH,medium,18,1,6.06
+Tengo una consulta general sobre mi cuenta,OTHR,low,23,6,7.33
+El internet está muy lento y no logro conectarme bien,TECH,low,13,2,9.84
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,18,3,1.34
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,22,0,9.37
+Necesito cancelar mi servicio lo antes posible,CNCL,high,20,5,0.9
+Tengo una consulta general sobre mi cuenta,OTHR,medium,12,0,5.86
+Tengo una consulta general sobre mi cuenta,OTHR,low,17,5,9.39
+El internet está muy lento y no logro conectarme bien,TECH,low,0,1,12.87
+El internet está muy lento y no logro conectarme bien,TECH,low,19,2,11.26
+El internet está muy lento y no logro conectarme bien,TECH,medium,4,2,9.83
+Necesito cancelar mi servicio lo antes posible,CNCL,low,23,5,4.05
+El internet está muy lento y no logro conectarme bien,TECH,medium,20,2,5.83
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,3,1,5.27
+El internet está muy lento y no logro conectarme bien,TECH,high,12,0,3.0
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,3,2,6.34
+Tengo una consulta general sobre mi cuenta,OTHR,low,7,5,9.12
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,11,2,5.23
+Necesito cancelar mi servicio lo antes posible,CNCL,low,16,1,3.01
+Necesito cancelar mi servicio lo antes posible,CNCL,low,11,0,2.67
+El internet está muy lento y no logro conectarme bien,TECH,low,16,3,9.31
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,6,5,3.03
+El internet está muy lento y no logro conectarme bien,TECH,low,4,3,15.29
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,3,4,7.58
+El internet está muy lento y no logro conectarme bien,TECH,low,14,0,12.12
+El internet está muy lento y no logro conectarme bien,TECH,low,20,2,9.85
+Tengo una consulta general sobre mi cuenta,OTHR,medium,19,5,4.8
+Tengo una consulta general sobre mi cuenta,OTHR,low,3,1,10.02
+Tengo una consulta general sobre mi cuenta,OTHR,high,12,4,2.35
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,18,3,3.47
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,17,0,6.43
+Necesito cancelar mi servicio lo antes posible,CNCL,low,6,1,3.94
+El internet está muy lento y no logro conectarme bien,TECH,medium,9,2,5.42
+Tengo una consulta general sobre mi cuenta,OTHR,medium,13,1,5.98
+El internet está muy lento y no logro conectarme bien,TECH,low,13,2,11.33
+Tengo una consulta general sobre mi cuenta,OTHR,medium,23,4,6.39
+Necesito cancelar mi servicio lo antes posible,CNCL,low,6,3,4.59
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,15,2,2.25
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,15,4,2.69
+Necesito cancelar mi servicio lo antes posible,CNCL,high,2,1,1.56
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,13,3,1.82
+Mi factura tiene un cobro que no reconozco este mes,BILL,high,4,6,1.61
+Necesito cancelar mi servicio lo antes posible,CNCL,low,11,0,3.92
+Necesito cancelar mi servicio lo antes posible,CNCL,low,12,5,3.17
+Tengo una consulta general sobre mi cuenta,OTHR,low,17,2,10.43
+Necesito cancelar mi servicio lo antes posible,CNCL,high,5,0,1.45
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,12,1,5.04
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,8,3,1.98
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,21,1,5.14
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,8,3,2.49
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,9,5,5.49
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,18,2,8.3
+Necesito cancelar mi servicio lo antes posible,CNCL,low,3,2,4.63
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,4,4,9.22
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,23,2,10.02
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,20,6,1.9
+Necesito cancelar mi servicio lo antes posible,CNCL,low,6,0,5.74
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,high,5,5,2.45
+El internet está muy lento y no logro conectarme bien,TECH,medium,12,1,4.73
+Tengo una consulta general sobre mi cuenta,OTHR,low,4,6,18.03
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,4,6,2.27
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,20,6,6.09
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,12,5,5.87
+Tengo una consulta general sobre mi cuenta,OTHR,high,4,5,3.09
+Necesito cancelar mi servicio lo antes posible,CNCL,low,19,5,2.43
+Tengo una consulta general sobre mi cuenta,OTHR,medium,21,5,8.33
+Tengo una consulta general sobre mi cuenta,OTHR,low,6,5,14.86
+Tengo una consulta general sobre mi cuenta,OTHR,medium,22,5,7.41
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,11,3,2.02
+Necesito cancelar mi servicio lo antes posible,CNCL,low,11,3,4.93
+El internet está muy lento y no logro conectarme bien,TECH,low,8,4,7.92
+Tengo una consulta general sobre mi cuenta,OTHR,medium,3,3,7.32
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,6,3,3.14
+El internet está muy lento y no logro conectarme bien,TECH,low,7,4,13.9
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,23,2,7.75
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,high,17,2,1.65
+Necesito cancelar mi servicio lo antes posible,CNCL,low,4,0,3.55
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,10,6,3.15
+Necesito cancelar mi servicio lo antes posible,CNCL,low,18,4,3.44
+Tengo una consulta general sobre mi cuenta,OTHR,low,9,2,5.77
+Tengo una consulta general sobre mi cuenta,OTHR,medium,18,1,5.8
+El internet está muy lento y no logro conectarme bien,TECH,medium,0,4,6.39
+Tengo una consulta general sobre mi cuenta,OTHR,medium,1,1,7.46
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,9,1,2.14
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,14,6,1.89
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,20,2,3.45
+Tengo una consulta general sobre mi cuenta,OTHR,high,9,4,1.88
+Tengo una consulta general sobre mi cuenta,OTHR,low,5,1,12.75
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,12,1,3.74
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,10,5,1.61
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,0,6,9.8
+El internet está muy lento y no logro conectarme bien,TECH,low,5,5,13.21
+Tengo una consulta general sobre mi cuenta,OTHR,medium,4,5,8.88
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,12,6,2.1
+Tengo una consulta general sobre mi cuenta,OTHR,low,1,1,13.27
+El internet está muy lento y no logro conectarme bien,TECH,medium,17,4,6.36
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,18,1,6.79
+Necesito cancelar mi servicio lo antes posible,CNCL,low,3,1,4.36
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,21,1,6.95
+Tengo una consulta general sobre mi cuenta,OTHR,medium,16,1,4.47
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,15,5,5.8
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,21,2,7.88
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,9,1,3.94
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,3,4,2.83
+Tengo una consulta general sobre mi cuenta,OTHR,medium,8,6,3.7
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,21,2,7.63
+El internet está muy lento y no logro conectarme bien,TECH,medium,6,3,7.72
+Tengo una consulta general sobre mi cuenta,OTHR,medium,19,5,5.0
+Mi factura tiene un cobro que no reconozco este mes,BILL,high,2,1,1.86
+Tengo una consulta general sobre mi cuenta,OTHR,low,0,6,15.15
+Necesito cancelar mi servicio lo antes posible,CNCL,high,16,4,0.85
+Tengo una consulta general sobre mi cuenta,OTHR,low,16,5,6.27
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,4,5,5.42
+Necesito cancelar mi servicio lo antes posible,CNCL,low,17,3,3.38
+El internet está muy lento y no logro conectarme bien,TECH,medium,19,5,7.73
+Mi factura tiene un cobro que no reconozco este mes,BILL,high,6,2,1.53
+Necesito cancelar mi servicio lo antes posible,CNCL,low,17,5,3.73
+Tengo una consulta general sobre mi cuenta,OTHR,medium,8,3,5.02
+El internet está muy lento y no logro conectarme bien,TECH,low,1,1,16.01
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,11,3,2.21
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,19,2,5.47
+Tengo una consulta general sobre mi cuenta,OTHR,low,1,4,8.95
+Tengo una consulta general sobre mi cuenta,OTHR,low,20,5,7.56
+Tengo una consulta general sobre mi cuenta,OTHR,medium,23,3,5.48
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,3,4,5.98
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,15,2,1.89
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,3,5,1.68
+Necesito cancelar mi servicio lo antes posible,CNCL,low,14,6,2.53
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,high,13,4,2.32
+Tengo una consulta general sobre mi cuenta,OTHR,medium,16,2,4.85
+El internet está muy lento y no logro conectarme bien,TECH,high,14,1,3.35
+Necesito cancelar mi servicio lo antes posible,CNCL,low,9,6,4.22
+El internet está muy lento y no logro conectarme bien,TECH,medium,9,4,5.26
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,21,5,6.25
+El internet está muy lento y no logro conectarme bien,TECH,low,6,6,6.82
+Tengo una consulta general sobre mi cuenta,OTHR,high,10,5,3.08
+Necesito cancelar mi servicio lo antes posible,CNCL,low,22,4,3.92
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,15,5,6.52
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,11,0,2.79
+El internet está muy lento y no logro conectarme bien,TECH,high,17,6,3.79
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,10,4,4.55
+El internet está muy lento y no logro conectarme bien,TECH,high,17,4,2.58
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,high,2,3,2.69
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,4,2,4.4
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,13,3,6.22
+Necesito cancelar mi servicio lo antes posible,CNCL,low,21,1,3.49
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,14,2,5.29
+El internet está muy lento y no logro conectarme bien,TECH,medium,20,3,8.81
+El internet está muy lento y no logro conectarme bien,TECH,high,13,4,2.63
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,6,6,7.33
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,1,3,3.42
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,19,5,3.6
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,17,5,2.37
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,8,6,9.02
+El internet está muy lento y no logro conectarme bien,TECH,low,11,3,9.5
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,1,3,7.51
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,6,3,3.76
+Tengo una consulta general sobre mi cuenta,OTHR,low,12,2,8.92
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,18,0,8.15
+Necesito cancelar mi servicio lo antes posible,CNCL,low,16,2,3.36
+Tengo una consulta general sobre mi cuenta,OTHR,high,10,1,2.64
+El internet está muy lento y no logro conectarme bien,TECH,medium,20,4,5.91
+Mi factura tiene un cobro que no reconozco este mes,BILL,high,1,6,2.0
+Tengo una consulta general sobre mi cuenta,OTHR,medium,18,6,3.74
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,16,0,6.92
+Tengo una consulta general sobre mi cuenta,OTHR,medium,3,3,7.86
+Necesito cancelar mi servicio lo antes posible,CNCL,low,3,0,5.25
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,23,6,5.96
+Tengo una consulta general sobre mi cuenta,OTHR,low,9,6,10.14
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,12,5,4.45
+El internet está muy lento y no logro conectarme bien,TECH,high,16,5,4.1
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,5,0,9.99
+Tengo una consulta general sobre mi cuenta,OTHR,high,16,1,3.12
+El internet está muy lento y no logro conectarme bien,TECH,medium,15,6,8.49
+El internet está muy lento y no logro conectarme bien,TECH,low,4,0,14.94
+Tengo una consulta general sobre mi cuenta,OTHR,low,1,2,11.05
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,7,3,8.05
+El internet está muy lento y no logro conectarme bien,TECH,medium,19,4,6.94
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,22,0,5.03
+El internet está muy lento y no logro conectarme bien,TECH,low,9,4,12.24
+Necesito cancelar mi servicio lo antes posible,CNCL,low,19,5,2.93
+El internet está muy lento y no logro conectarme bien,TECH,high,8,6,1.49
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,13,0,5.58
+Necesito cancelar mi servicio lo antes posible,CNCL,high,16,5,0.56
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,20,5,4.99
+El internet está muy lento y no logro conectarme bien,TECH,low,21,0,19.06
+El internet está muy lento y no logro conectarme bien,TECH,medium,14,4,6.67
+Tengo una consulta general sobre mi cuenta,OTHR,low,20,2,7.56
+Tengo una consulta general sobre mi cuenta,OTHR,medium,9,4,6.17
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,14,5,1.85
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,23,0,8.01
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,18,3,6.43
+Tengo una consulta general sobre mi cuenta,OTHR,low,16,1,12.07
+El internet está muy lento y no logro conectarme bien,TECH,low,17,3,12.29
+Tengo una consulta general sobre mi cuenta,OTHR,low,5,4,10.21
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,23,4,5.44
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,22,6,9.08
+El internet está muy lento y no logro conectarme bien,TECH,medium,0,2,9.96
+Necesito cancelar mi servicio lo antes posible,CNCL,low,2,5,5.16
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,0,2,8.22
+El internet está muy lento y no logro conectarme bien,TECH,medium,7,3,9.61
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,11,3,2.29
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,15,3,6.08
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,10,5,9.19
+El internet está muy lento y no logro conectarme bien,TECH,medium,18,0,6.6
+Mi factura tiene un cobro que no reconozco este mes,BILL,high,19,3,1.91
+Necesito cancelar mi servicio lo antes posible,CNCL,low,3,2,5.06
+Necesito cancelar mi servicio lo antes posible,CNCL,low,7,5,4.67
+Tengo una consulta general sobre mi cuenta,OTHR,medium,8,6,4.05
+Necesito cancelar mi servicio lo antes posible,CNCL,low,19,5,3.59
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,11,0,2.92
+Tengo una consulta general sobre mi cuenta,OTHR,high,18,2,2.27
+Necesito cancelar mi servicio lo antes posible,CNCL,low,0,5,6.74
+Tengo una consulta general sobre mi cuenta,OTHR,low,5,4,7.69
+El internet está muy lento y no logro conectarme bien,TECH,low,11,5,10.99
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,0,2,3.31
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,high,19,1,2.06
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,1,5,7.16
+El internet está muy lento y no logro conectarme bien,TECH,low,20,0,12.37
+Tengo una consulta general sobre mi cuenta,OTHR,low,6,0,13.92
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,19,3,1.93
+Mi factura tiene un cobro que no reconozco este mes,BILL,high,17,2,0.79
+El internet está muy lento y no logro conectarme bien,TECH,low,0,0,10.57
+Tengo una consulta general sobre mi cuenta,OTHR,low,15,5,6.74
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,10,0,1.71
+El internet está muy lento y no logro conectarme bien,TECH,low,21,0,14.84
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,high,4,5,2.69
+Tengo una consulta general sobre mi cuenta,OTHR,low,1,6,14.72
+Tengo una consulta general sobre mi cuenta,OTHR,low,12,6,9.74
+Tengo una consulta general sobre mi cuenta,OTHR,medium,14,4,4.69
+Tengo una consulta general sobre mi cuenta,OTHR,low,10,6,7.38
+Necesito cancelar mi servicio lo antes posible,CNCL,low,10,6,3.69
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,18,0,4.96
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,19,5,4.52
+El internet está muy lento y no logro conectarme bien,TECH,low,8,6,14.72
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,7,0,10.72
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,21,2,8.24
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,23,4,6.22
+El internet está muy lento y no logro conectarme bien,TECH,low,13,6,11.88
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,20,2,4.49
+Tengo una consulta general sobre mi cuenta,OTHR,high,0,3,3.41
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,14,1,5.28
+Tengo una consulta general sobre mi cuenta,OTHR,low,1,2,9.1
+El internet está muy lento y no logro conectarme bien,TECH,medium,3,2,7.77
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,6,1,3.36
+Necesito cancelar mi servicio lo antes posible,CNCL,low,0,2,4.35
+El internet está muy lento y no logro conectarme bien,TECH,medium,18,6,3.46
+Tengo una consulta general sobre mi cuenta,OTHR,medium,10,2,3.91
+El internet está muy lento y no logro conectarme bien,TECH,medium,21,0,11.92
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,4,0,5.67
+Tengo una consulta general sobre mi cuenta,OTHR,medium,12,3,5.56
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,4,6,5.64
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,7,6,5.6
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,4,5,5.76
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,1,3,3.02
+Tengo una consulta general sobre mi cuenta,OTHR,medium,18,2,4.6
+El internet está muy lento y no logro conectarme bien,TECH,medium,7,4,7.36
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,12,0,2.29
+Tengo una consulta general sobre mi cuenta,OTHR,low,8,3,9.3
+El internet está muy lento y no logro conectarme bien,TECH,low,15,6,13.5
+Tengo una consulta general sobre mi cuenta,OTHR,medium,12,6,5.08
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,12,1,5.99
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,22,0,9.59
+Necesito cancelar mi servicio lo antes posible,CNCL,high,21,2,1.53
+Necesito cancelar mi servicio lo antes posible,CNCL,low,13,1,4.29
+Tengo una consulta general sobre mi cuenta,OTHR,low,11,0,8.25
+El internet está muy lento y no logro conectarme bien,TECH,medium,3,3,9.54
+Necesito cancelar mi servicio lo antes posible,CNCL,low,6,2,4.09
+Necesito cancelar mi servicio lo antes posible,CNCL,low,0,4,2.81
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,13,1,4.28
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,22,6,3.07
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,0,3,6.95
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,9,2,4.84
+El internet está muy lento y no logro conectarme bien,TECH,low,22,3,13.33
+Tengo una consulta general sobre mi cuenta,OTHR,low,10,1,8.79
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,21,4,6.43
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,9,1,6.38
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,10,1,1.73
+Necesito cancelar mi servicio lo antes posible,CNCL,low,17,2,3.34
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,12,0,6.43
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,13,1,4.54
+El internet está muy lento y no logro conectarme bien,TECH,medium,13,0,5.54
+El internet está muy lento y no logro conectarme bien,TECH,low,13,5,9.36
+El internet está muy lento y no logro conectarme bien,TECH,low,17,2,9.0
+Tengo una consulta general sobre mi cuenta,OTHR,medium,4,4,4.61
+Mi factura tiene un cobro que no reconozco este mes,BILL,high,9,4,1.15
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,5,2,8.39
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,5,3,2.17
+Tengo una consulta general sobre mi cuenta,OTHR,low,13,4,9.23
+El internet está muy lento y no logro conectarme bien,TECH,medium,0,4,5.79
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,21,3,9.65
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,13,5,7.49
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,8,4,2.06
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,3,5,3.35
+El internet está muy lento y no logro conectarme bien,TECH,low,17,2,8.97
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,10,2,6.0
+Necesito cancelar mi servicio lo antes posible,CNCL,high,9,6,1.1
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,6,6,2.59
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,14,6,1.93
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,23,5,6.53
+Tengo una consulta general sobre mi cuenta,OTHR,low,7,3,10.07
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,7,0,8.43
+El internet está muy lento y no logro conectarme bien,TECH,high,10,3,2.71
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,17,2,1.67
+Tengo una consulta general sobre mi cuenta,OTHR,high,17,4,2.41
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,16,3,2.24
+El internet está muy lento y no logro conectarme bien,TECH,medium,12,6,7.6
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,1,1,8.88
+El internet está muy lento y no logro conectarme bien,TECH,low,13,0,13.37
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,22,0,9.28
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,7,4,4.35
+Tengo una consulta general sobre mi cuenta,OTHR,low,0,6,12.28
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,22,4,2.69
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,13,6,4.65
+Tengo una consulta general sobre mi cuenta,OTHR,medium,1,5,7.94
+Tengo una consulta general sobre mi cuenta,OTHR,high,12,3,3.16
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,1,4,5.89
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,16,2,4.92
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,9,4,6.76
+Tengo una consulta general sobre mi cuenta,OTHR,low,12,0,10.82
+El internet está muy lento y no logro conectarme bien,TECH,low,16,5,10.63
+Tengo una consulta general sobre mi cuenta,OTHR,medium,3,4,4.99
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,20,4,6.91
+Tengo una consulta general sobre mi cuenta,OTHR,medium,12,3,2.93
+Necesito cancelar mi servicio lo antes posible,CNCL,low,7,0,4.03
+Necesito cancelar mi servicio lo antes posible,CNCL,low,14,5,3.48
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,high,15,3,2.04
+Tengo una consulta general sobre mi cuenta,OTHR,high,7,2,4.2
+Necesito cancelar mi servicio lo antes posible,CNCL,low,7,0,4.7
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,1,1,6.34
+Tengo una consulta general sobre mi cuenta,OTHR,medium,13,2,4.77
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,0,2,7.21
+El internet está muy lento y no logro conectarme bien,TECH,medium,19,3,5.69
+Necesito cancelar mi servicio lo antes posible,CNCL,low,5,0,4.82
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,7,3,9.41
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,high,8,1,2.36
+El internet está muy lento y no logro conectarme bien,TECH,medium,22,2,7.98
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,16,6,5.83
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,11,0,1.54
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,8,2,7.7
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,high,21,3,3.29
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,10,1,4.55
+Tengo una consulta general sobre mi cuenta,OTHR,medium,14,4,6.57
+Necesito cancelar mi servicio lo antes posible,CNCL,low,12,6,4.26
+Tengo una consulta general sobre mi cuenta,OTHR,low,19,3,9.63
+El internet está muy lento y no logro conectarme bien,TECH,medium,1,1,8.87
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,17,3,7.81
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,23,4,7.47
+El internet está muy lento y no logro conectarme bien,TECH,low,4,5,19.06
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,4,4,8.66
+El internet está muy lento y no logro conectarme bien,TECH,low,8,4,11.97
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,3,2,6.01
+El internet está muy lento y no logro conectarme bien,TECH,high,11,1,2.84
+Tengo una consulta general sobre mi cuenta,OTHR,low,18,3,8.21
+El internet está muy lento y no logro conectarme bien,TECH,medium,0,1,9.63
+Tengo una consulta general sobre mi cuenta,OTHR,low,9,3,12.57
+Mi factura tiene un cobro que no reconozco este mes,BILL,high,0,2,2.04
+Tengo una consulta general sobre mi cuenta,OTHR,medium,21,0,7.62
+Tengo una consulta general sobre mi cuenta,OTHR,low,0,5,13.44
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,10,5,3.28
+El internet está muy lento y no logro conectarme bien,TECH,high,15,4,2.74
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,14,5,4.5
+El internet está muy lento y no logro conectarme bien,TECH,low,18,5,10.95
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,12,0,6.82
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,12,1,3.79
+El internet está muy lento y no logro conectarme bien,TECH,high,7,3,3.65
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,high,9,3,1.76
+Tengo una consulta general sobre mi cuenta,OTHR,low,14,1,11.27
+Tengo una consulta general sobre mi cuenta,OTHR,low,20,6,8.09
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,21,6,2.97
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,7,6,4.31
+El internet está muy lento y no logro conectarme bien,TECH,low,8,5,8.99
+El internet está muy lento y no logro conectarme bien,TECH,medium,13,2,8.25
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,high,3,4,2.98
+Necesito cancelar mi servicio lo antes posible,CNCL,low,2,1,4.98
+Tengo una consulta general sobre mi cuenta,OTHR,low,10,5,6.11
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,22,5,4.01
+Necesito cancelar mi servicio lo antes posible,CNCL,low,18,2,2.93
+El internet está muy lento y no logro conectarme bien,TECH,low,0,5,16.84
+Tengo una consulta general sobre mi cuenta,OTHR,low,12,1,7.4
+Tengo una consulta general sobre mi cuenta,OTHR,medium,17,4,3.29
+Necesito cancelar mi servicio lo antes posible,CNCL,low,2,3,4.44
+Necesito cancelar mi servicio lo antes posible,CNCL,low,19,3,4.49
+El internet está muy lento y no logro conectarme bien,TECH,medium,10,6,6.33
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,19,5,1.54
+Tengo una consulta general sobre mi cuenta,OTHR,medium,16,4,5.75
+Tengo una consulta general sobre mi cuenta,OTHR,low,23,3,12.93
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,high,9,2,2.08
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,16,2,6.0
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,6,5,7.27
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,23,0,13.32
+El internet está muy lento y no logro conectarme bien,TECH,medium,2,5,7.79
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,21,5,8.64
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,23,2,6.29
+El internet está muy lento y no logro conectarme bien,TECH,high,20,4,3.59
+El internet está muy lento y no logro conectarme bien,TECH,low,4,0,12.79
+Tengo una consulta general sobre mi cuenta,OTHR,low,17,5,6.19
+Necesito cancelar mi servicio lo antes posible,CNCL,high,21,3,1.01
+El internet está muy lento y no logro conectarme bien,TECH,low,4,0,12.29
+Tengo una consulta general sobre mi cuenta,OTHR,low,18,6,9.75
+Tengo una consulta general sobre mi cuenta,OTHR,medium,6,1,7.2
+Tengo una consulta general sobre mi cuenta,OTHR,low,20,1,5.56
+El internet está muy lento y no logro conectarme bien,TECH,low,9,5,13.13
+El internet está muy lento y no logro conectarme bien,TECH,medium,5,3,5.16
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,4,2,7.41
+Necesito cancelar mi servicio lo antes posible,CNCL,low,16,5,3.81
+El internet está muy lento y no logro conectarme bien,TECH,low,15,6,11.52
+Tengo una consulta general sobre mi cuenta,OTHR,medium,23,0,5.94
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,11,3,1.55
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,5,6,4.93
+Tengo una consulta general sobre mi cuenta,OTHR,low,11,4,8.74
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,9,0,2.55
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,3,3,6.44
+Tengo una consulta general sobre mi cuenta,OTHR,medium,14,1,5.48
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,7,1,9.32
+Mi factura tiene un cobro que no reconozco este mes,BILL,high,10,5,1.73
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,14,0,2.65
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,7,2,2.72
+El internet está muy lento y no logro conectarme bien,TECH,low,5,5,15.59
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,5,5,2.43
+Tengo una consulta general sobre mi cuenta,OTHR,medium,0,0,6.26
+El internet está muy lento y no logro conectarme bien,TECH,medium,0,1,9.22
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,10,0,3.14
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,13,2,4.78
+Necesito cancelar mi servicio lo antes posible,CNCL,low,11,0,3.92
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,19,6,3.07
+El internet está muy lento y no logro conectarme bien,TECH,low,10,5,12.62
+El internet está muy lento y no logro conectarme bien,TECH,high,15,3,2.74
+Tengo una consulta general sobre mi cuenta,OTHR,medium,16,5,5.02
+El internet está muy lento y no logro conectarme bien,TECH,low,20,5,10.74
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,high,10,4,1.82
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,2,2,4.23
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,0,3,4.32
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,12,1,4.95
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,high,6,3,1.65
+El internet está muy lento y no logro conectarme bien,TECH,low,21,2,13.01
+Tengo una consulta general sobre mi cuenta,OTHR,high,1,5,3.11
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,6,3,5.16
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,15,2,6.34
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,15,0,5.16
+Tengo una consulta general sobre mi cuenta,OTHR,high,20,1,3.08
+Tengo una consulta general sobre mi cuenta,OTHR,high,7,4,2.66
+Tengo una consulta general sobre mi cuenta,OTHR,medium,19,0,3.89
+Necesito cancelar mi servicio lo antes posible,CNCL,low,14,3,5.08
+Mi factura tiene un cobro que no reconozco este mes,BILL,high,15,3,1.99
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,4,2,5.81
+El internet está muy lento y no logro conectarme bien,TECH,low,22,5,15.36
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,13,0,5.11
+El internet está muy lento y no logro conectarme bien,TECH,medium,6,3,6.52
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,8,2,10.35
+Tengo una consulta general sobre mi cuenta,OTHR,low,17,6,7.53
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,13,1,8.69
+Necesito cancelar mi servicio lo antes posible,CNCL,low,19,5,3.4
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,23,4,8.16
+Tengo una consulta general sobre mi cuenta,OTHR,low,2,3,13.87
+El internet está muy lento y no logro conectarme bien,TECH,low,10,3,10.78
+Necesito cancelar mi servicio lo antes posible,CNCL,low,8,3,3.49
+Necesito cancelar mi servicio lo antes posible,CNCL,low,22,2,4.5
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,18,0,2.39
+Tengo una consulta general sobre mi cuenta,OTHR,low,17,2,8.93
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,15,1,5.49
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,19,2,2.47
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,16,3,3.52
+Tengo una consulta general sobre mi cuenta,OTHR,low,21,2,14.98
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,0,2,8.04
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,4,5,3.83
+El internet está muy lento y no logro conectarme bien,TECH,medium,14,6,8.29
+Necesito cancelar mi servicio lo antes posible,CNCL,high,10,3,1.07
+El internet está muy lento y no logro conectarme bien,TECH,medium,5,1,8.88
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,15,6,2.12
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,0,5,10.48
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,23,3,5.59
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,8,5,6.27
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,9,4,1.56
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,3,5,4.79
+Tengo una consulta general sobre mi cuenta,OTHR,low,15,6,7.65
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,6,0,9.69
+Tengo una consulta general sobre mi cuenta,OTHR,low,4,2,12.57
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,7,3,2.79
+Necesito cancelar mi servicio lo antes posible,CNCL,low,4,1,3.47
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,21,2,9.37
+Necesito cancelar mi servicio lo antes posible,CNCL,low,9,0,2.55
+El internet está muy lento y no logro conectarme bien,TECH,low,3,3,15.97
+El internet está muy lento y no logro conectarme bien,TECH,medium,14,6,4.42
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,18,1,2.26
+Tengo una consulta general sobre mi cuenta,OTHR,low,22,4,11.9
+El internet está muy lento y no logro conectarme bien,TECH,high,22,3,3.46
+Tengo una consulta general sobre mi cuenta,OTHR,medium,2,4,6.95
+Tengo una consulta general sobre mi cuenta,OTHR,low,6,0,16.61
+Tengo una consulta general sobre mi cuenta,OTHR,low,1,4,10.48
+El internet está muy lento y no logro conectarme bien,TECH,low,14,2,11.41
+Tengo una consulta general sobre mi cuenta,OTHR,low,3,3,10.33
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,20,4,3.61
+El internet está muy lento y no logro conectarme bien,TECH,medium,22,6,7.8
+Necesito cancelar mi servicio lo antes posible,CNCL,low,11,1,4.03
+Necesito cancelar mi servicio lo antes posible,CNCL,high,21,6,1.15
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,18,3,3.21
+El internet está muy lento y no logro conectarme bien,TECH,low,23,0,11.16
+El internet está muy lento y no logro conectarme bien,TECH,medium,9,6,5.13
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,14,2,2.8
+Tengo una consulta general sobre mi cuenta,OTHR,medium,1,2,6.01
+Necesito cancelar mi servicio lo antes posible,CNCL,high,7,0,1.37
+El internet está muy lento y no logro conectarme bien,TECH,high,0,3,2.76
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,19,0,9.32
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,7,0,6.6
+Necesito cancelar mi servicio lo antes posible,CNCL,low,2,2,5.66
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,14,5,6.42
+Necesito cancelar mi servicio lo antes posible,CNCL,low,10,1,2.82
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,21,3,5.85
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,8,0,4.04
+Tengo una consulta general sobre mi cuenta,OTHR,low,9,2,9.67
+Tengo una consulta general sobre mi cuenta,OTHR,low,19,5,10.62
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,0,2,6.15
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,19,2,2.05
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,18,5,5.45
+Tengo una consulta general sobre mi cuenta,OTHR,medium,15,6,5.21
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,10,6,7.22
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,10,3,5.95
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,4,0,4.52
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,6,0,8.55
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,6,5,4.52
+El internet está muy lento y no logro conectarme bien,TECH,high,8,0,1.9
+El internet está muy lento y no logro conectarme bien,TECH,medium,7,1,6.47
+Necesito cancelar mi servicio lo antes posible,CNCL,high,14,0,0.67
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,0,5,6.17
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,4,3,6.48
+El internet está muy lento y no logro conectarme bien,TECH,high,4,6,4.0
+Tengo una consulta general sobre mi cuenta,OTHR,medium,12,5,5.51
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,19,5,2.38
+Tengo una consulta general sobre mi cuenta,OTHR,medium,21,4,4.34
+Tengo una consulta general sobre mi cuenta,OTHR,low,12,0,10.55
+Tengo una consulta general sobre mi cuenta,OTHR,low,16,3,9.76
+El internet está muy lento y no logro conectarme bien,TECH,low,3,0,13.5
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,high,21,3,3.09
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,19,6,7.26
+Necesito cancelar mi servicio lo antes posible,CNCL,high,20,2,1.05
+Tengo una consulta general sobre mi cuenta,OTHR,low,9,2,4.69
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,5,1,4.96
+El internet está muy lento y no logro conectarme bien,TECH,medium,13,5,4.64
+Necesito cancelar mi servicio lo antes posible,CNCL,low,1,1,3.4
+El internet está muy lento y no logro conectarme bien,TECH,medium,12,6,8.22
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,5,1,2.99
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,5,2,3.1
+El internet está muy lento y no logro conectarme bien,TECH,medium,15,4,6.91
+El internet está muy lento y no logro conectarme bien,TECH,medium,0,4,8.52
+El internet está muy lento y no logro conectarme bien,TECH,medium,10,3,9.28
+Tengo una consulta general sobre mi cuenta,OTHR,low,22,5,15.3
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,high,4,2,3.04
+Tengo una consulta general sobre mi cuenta,OTHR,low,22,1,10.6
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,1,0,10.58
+El internet está muy lento y no logro conectarme bien,TECH,high,14,0,2.81
+El internet está muy lento y no logro conectarme bien,TECH,low,7,3,15.12
+Necesito cancelar mi servicio lo antes posible,CNCL,low,17,5,4.03
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,0,2,2.35
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,21,0,3.79
+Tengo una consulta general sobre mi cuenta,OTHR,low,23,5,8.62
+Necesito cancelar mi servicio lo antes posible,CNCL,low,17,3,3.86
+Tengo una consulta general sobre mi cuenta,OTHR,medium,0,0,7.18
+El internet está muy lento y no logro conectarme bien,TECH,medium,2,2,8.78
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,22,2,4.06
+Necesito cancelar mi servicio lo antes posible,CNCL,low,11,5,4.08
+El internet está muy lento y no logro conectarme bien,TECH,medium,23,1,7.77
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,2,1,3.04
+Necesito cancelar mi servicio lo antes posible,CNCL,high,15,2,1.16
+El internet está muy lento y no logro conectarme bien,TECH,medium,17,5,6.09
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,22,0,4.29
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,21,3,4.49
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,high,17,0,1.26
+Necesito cancelar mi servicio lo antes posible,CNCL,low,23,6,4.98
+Tengo una consulta general sobre mi cuenta,OTHR,medium,16,2,3.68
+Tengo una consulta general sobre mi cuenta,OTHR,medium,15,2,3.81
+El internet está muy lento y no logro conectarme bien,TECH,medium,5,3,8.16
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,20,5,4.94
+Tengo una consulta general sobre mi cuenta,OTHR,low,10,5,7.97
+Necesito cancelar mi servicio lo antes posible,CNCL,high,16,5,0.99
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,10,4,4.04
+Tengo una consulta general sobre mi cuenta,OTHR,low,6,4,15.47
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,1,5,8.77
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,14,1,1.35
+El internet está muy lento y no logro conectarme bien,TECH,high,17,6,3.8
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,19,0,4.45
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,22,1,6.28
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,23,4,7.4
+Tengo una consulta general sobre mi cuenta,OTHR,low,13,0,5.82
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,20,5,6.68
+Necesito cancelar mi servicio lo antes posible,CNCL,low,5,2,4.52
+Tengo una consulta general sobre mi cuenta,OTHR,medium,6,1,6.64
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,15,4,1.99
+El internet está muy lento y no logro conectarme bien,TECH,low,19,0,7.17
+Tengo una consulta general sobre mi cuenta,OTHR,high,3,2,2.61
+Necesito cancelar mi servicio lo antes posible,CNCL,low,12,0,2.23
+El internet está muy lento y no logro conectarme bien,TECH,low,15,6,12.92
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,12,0,2.64
+Tengo una consulta general sobre mi cuenta,OTHR,medium,4,3,4.74
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,11,1,7.74
+Necesito cancelar mi servicio lo antes posible,CNCL,high,16,0,0.89
+El internet está muy lento y no logro conectarme bien,TECH,medium,11,5,5.66
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,20,0,1.91
+El internet está muy lento y no logro conectarme bien,TECH,low,17,3,11.83
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,7,4,4.87
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,17,3,6.06
+El internet está muy lento y no logro conectarme bien,TECH,low,11,4,10.19
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,16,2,2.98
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,17,2,2.56
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,18,5,1.23
+Necesito cancelar mi servicio lo antes posible,CNCL,low,9,1,5.03
+Tengo una consulta general sobre mi cuenta,OTHR,low,10,6,12.12
+Mi factura tiene un cobro que no reconozco este mes,BILL,high,10,3,1.45
+Mi factura tiene un cobro que no reconozco este mes,BILL,high,22,4,1.78
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,12,0,4.23
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,19,1,4.14
+Necesito cancelar mi servicio lo antes posible,CNCL,low,4,3,3.55
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,17,4,5.17
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,17,0,2.67
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,1,5,7.16
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,7,3,6.69
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,21,5,7.15
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,2,5,2.67
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,0,1,4.44
+El internet está muy lento y no logro conectarme bien,TECH,high,19,1,3.55
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,10,3,5.88
+El internet está muy lento y no logro conectarme bien,TECH,low,18,1,13.3
+El internet está muy lento y no logro conectarme bien,TECH,medium,17,3,7.3
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,8,3,6.48
+Tengo una consulta general sobre mi cuenta,OTHR,medium,21,5,4.84
+Tengo una consulta general sobre mi cuenta,OTHR,medium,0,2,6.9
+Tengo una consulta general sobre mi cuenta,OTHR,low,23,4,12.33
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,0,2,11.83
+Tengo una consulta general sobre mi cuenta,OTHR,medium,22,3,6.84
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,18,2,4.01
+Necesito cancelar mi servicio lo antes posible,CNCL,high,11,6,0.89
+El internet está muy lento y no logro conectarme bien,TECH,low,19,3,13.31
+El internet está muy lento y no logro conectarme bien,TECH,low,0,0,14.3
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,10,2,2.87
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,15,0,5.42
+El internet está muy lento y no logro conectarme bien,TECH,high,0,2,2.91
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,6,3,4.44
+El internet está muy lento y no logro conectarme bien,TECH,low,21,4,17.95
+Necesito cancelar mi servicio lo antes posible,CNCL,low,21,1,5.87
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,22,5,2.26
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,high,22,6,2.82
+Necesito cancelar mi servicio lo antes posible,CNCL,low,16,1,3.95
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,23,6,11.17
+Tengo una consulta general sobre mi cuenta,OTHR,medium,20,5,4.29
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,10,0,2.64
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,23,2,4.76
+El internet está muy lento y no logro conectarme bien,TECH,low,4,0,13.91
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,14,4,6.89
+Tengo una consulta general sobre mi cuenta,OTHR,high,3,6,3.84
+El internet está muy lento y no logro conectarme bien,TECH,high,18,2,3.12
+Necesito cancelar mi servicio lo antes posible,CNCL,low,21,1,4.96
+Tengo una consulta general sobre mi cuenta,OTHR,high,5,4,4.9
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,8,3,8.75
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,3,4,6.73
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,high,7,2,1.79
+Tengo una consulta general sobre mi cuenta,OTHR,medium,0,5,5.98
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,22,6,3.11
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,22,2,9.6
+Tengo una consulta general sobre mi cuenta,OTHR,medium,15,1,5.41
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,15,0,2.35
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,10,4,2.07
+El internet está muy lento y no logro conectarme bien,TECH,medium,21,3,6.76
+El internet está muy lento y no logro conectarme bien,TECH,low,6,4,13.86
+El internet está muy lento y no logro conectarme bien,TECH,medium,14,6,5.55
+El internet está muy lento y no logro conectarme bien,TECH,medium,11,1,6.46
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,23,0,5.2
+Necesito cancelar mi servicio lo antes posible,CNCL,low,11,0,4.97
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,21,4,3.45
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,8,6,5.05
+El internet está muy lento y no logro conectarme bien,TECH,medium,3,4,7.76
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,6,5,11.13
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,9,0,4.02
+El internet está muy lento y no logro conectarme bien,TECH,low,13,1,11.14
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,13,5,5.48
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,high,22,4,3.62
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,14,6,6.92
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,8,1,3.39
+El internet está muy lento y no logro conectarme bien,TECH,low,7,2,16.11
+Tengo una consulta general sobre mi cuenta,OTHR,low,16,6,10.41
+Tengo una consulta general sobre mi cuenta,OTHR,low,22,2,14.44
+Tengo una consulta general sobre mi cuenta,OTHR,low,8,3,7.2
+El internet está muy lento y no logro conectarme bien,TECH,low,21,5,15.67
+Tengo una consulta general sobre mi cuenta,OTHR,low,14,5,7.01
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,7,6,7.4
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,12,3,4.08
+El internet está muy lento y no logro conectarme bien,TECH,low,16,3,10.33
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,high,13,0,2.04
+Necesito cancelar mi servicio lo antes posible,CNCL,low,9,3,4.84
+Necesito cancelar mi servicio lo antes posible,CNCL,high,10,5,0.91
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,15,0,4.44
+El internet está muy lento y no logro conectarme bien,TECH,high,5,3,3.72
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,2,6,8.75
+Tengo una consulta general sobre mi cuenta,OTHR,low,13,1,9.35
+El internet está muy lento y no logro conectarme bien,TECH,low,5,5,12.6
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,11,3,3.06
+Necesito cancelar mi servicio lo antes posible,CNCL,low,14,6,4.7
+Tengo una consulta general sobre mi cuenta,OTHR,low,11,5,7.33
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,19,3,4.34
+El internet está muy lento y no logro conectarme bien,TECH,low,18,3,11.21
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,11,6,3.49
+Tengo una consulta general sobre mi cuenta,OTHR,low,6,0,11.92
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,20,4,5.68
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,high,2,3,3.17
+El internet está muy lento y no logro conectarme bien,TECH,low,17,6,10.54
+El internet está muy lento y no logro conectarme bien,TECH,low,23,2,12.94
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,17,3,4.2
+Mi factura tiene un cobro que no reconozco este mes,BILL,high,10,2,1.36
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,14,4,5.57
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,8,5,6.76
+Tengo una consulta general sobre mi cuenta,OTHR,high,8,2,2.49
+El internet está muy lento y no logro conectarme bien,TECH,low,6,3,15.5
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,13,4,2.34
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,2,5,7.61
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,7,1,3.72
+Necesito cancelar mi servicio lo antes posible,CNCL,low,18,5,3.84
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,19,3,4.48
+El internet está muy lento y no logro conectarme bien,TECH,medium,3,3,6.51
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,12,2,4.7
+El internet está muy lento y no logro conectarme bien,TECH,medium,1,6,9.92
+El internet está muy lento y no logro conectarme bien,TECH,high,20,0,2.46
+El internet está muy lento y no logro conectarme bien,TECH,medium,17,1,6.04
+Necesito cancelar mi servicio lo antes posible,CNCL,low,7,5,5.48
+Necesito cancelar mi servicio lo antes posible,CNCL,low,23,1,5.4
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,6,2,2.24
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,8,1,7.6
+El internet está muy lento y no logro conectarme bien,TECH,low,5,6,10.65
+Tengo una consulta general sobre mi cuenta,OTHR,low,19,1,11.3
+El internet está muy lento y no logro conectarme bien,TECH,low,3,1,17.22
+Necesito cancelar mi servicio lo antes posible,CNCL,low,17,0,3.05
+El internet está muy lento y no logro conectarme bien,TECH,low,14,4,8.99
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,18,0,8.93
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,12,2,6.34
+El internet está muy lento y no logro conectarme bien,TECH,low,19,3,10.3
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,7,5,6.54
+Tengo una consulta general sobre mi cuenta,OTHR,high,4,5,4.24
+Tengo una consulta general sobre mi cuenta,OTHR,low,4,1,11.5
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,19,1,2.78
+Tengo una consulta general sobre mi cuenta,OTHR,high,23,1,3.41
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,23,3,5.55
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,18,6,4.4
+El internet está muy lento y no logro conectarme bien,TECH,medium,16,0,7.36
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,0,4,3.74
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,0,2,9.64
+Necesito cancelar mi servicio lo antes posible,CNCL,low,21,3,3.78
+El internet está muy lento y no logro conectarme bien,TECH,low,18,3,13.45
+El internet está muy lento y no logro conectarme bien,TECH,low,20,6,9.08
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,18,4,3.91
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,6,3,4.01
+El internet está muy lento y no logro conectarme bien,TECH,low,3,0,17.51
+El internet está muy lento y no logro conectarme bien,TECH,medium,23,4,7.09
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,3,5,6.0
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,7,2,3.58
+Tengo una consulta general sobre mi cuenta,OTHR,low,21,5,14.73
+El internet está muy lento y no logro conectarme bien,TECH,high,8,5,2.3
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,21,4,9.35
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,18,4,8.4
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,5,3,7.75
+Necesito cancelar mi servicio lo antes posible,CNCL,low,13,5,3.46
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,19,3,3.74
+Necesito cancelar mi servicio lo antes posible,CNCL,high,21,3,1.73
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,17,0,5.39
+El internet está muy lento y no logro conectarme bien,TECH,medium,8,4,6.94
+El internet está muy lento y no logro conectarme bien,TECH,low,12,6,5.32
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,16,3,1.98
+El internet está muy lento y no logro conectarme bien,TECH,medium,15,5,5.63
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,12,4,1.92
+Mi factura tiene un cobro que no reconozco este mes,BILL,high,2,0,2.22
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,7,1,4.55
+Necesito cancelar mi servicio lo antes posible,CNCL,low,20,6,3.34
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,9,2,5.23
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,14,4,4.71
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,11,5,4.63
+Mi factura tiene un cobro que no reconozco este mes,BILL,high,5,5,1.87
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,6,6,12.22
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,17,3,8.28
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,medium,22,1,5.02
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,low,9,4,6.23
+El internet está muy lento y no logro conectarme bien,TECH,medium,13,2,5.96
+Tengo una consulta general sobre mi cuenta,OTHR,low,15,6,10.93
+El internet está muy lento y no logro conectarme bien,TECH,low,8,0,10.36
+El internet está muy lento y no logro conectarme bien,TECH,medium,15,6,4.06
+El internet está muy lento y no logro conectarme bien,TECH,low,5,6,14.65
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,4,5,6.8
+Mi factura tiene un cobro que no reconozco este mes,BILL,low,22,5,8.22
+Quiero cambiar mi plan actual por uno de mayor velocidad,PLAN,high,23,5,2.79
+El internet está muy lento y no logro conectarme bien,TECH,medium,23,6,5.88
+Mi factura tiene un cobro que no reconozco este mes,BILL,medium,14,5,3.26
+Necesito cancelar mi servicio lo antes posible,CNCL,medium,5,6,2.02
