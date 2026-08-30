@@ -1,8 +1,5 @@
 """
 Parte 2.2 - Predicción de tiempo de resolución de tickets (regresión).
-Usa la Functional API de Keras para combinar:
-  - texto (descripción) -> Embedding + pooling
-  - estructurados (categoría, prioridad, hora, día) -> Dense
 """
 import pickle
 import numpy as np
@@ -38,13 +35,12 @@ def build_structured_preprocessor() -> ColumnTransformer:
 
 
 def build_model(n_structured_features: int) -> keras.Model:
-    # Rama de texto
     text_input = keras.Input(shape=(TEXT_MAX_LEN,), name="text_input")
     x_text = keras.layers.Embedding(VOCAB_SIZE, 32, mask_zero=True)(text_input)
     x_text = keras.layers.GlobalAveragePooling1D()(x_text)
     x_text = keras.layers.Dense(16, activation="relu")(x_text)
 
-    # Rama estructurada (categoría one-hot, prioridad, hora, día)
+    # Rama estructurada
     structured_input = keras.Input(shape=(n_structured_features,), name="structured_input")
     x_struct = keras.layers.Dense(32, activation="relu")(structured_input)
     x_struct = keras.layers.Dense(16, activation="relu")(x_struct)

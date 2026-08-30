@@ -1,10 +1,6 @@
 """
 Parte 1.1 - Clasificador de tickets de soporte.
 
-Expone:
-- entrenar_y_evaluar(): entrena, compara 2 modelos, guarda el mejor.
-- TicketClassifier: clase reutilizable para predecir en producción
-  (la usará el agente de LangGraph y la API FastAPI).
 """
 import re
 import unicodedata
@@ -29,9 +25,7 @@ MIN_TEXT_LENGTH = 10
 
 def clean_text(text: str) -> str:
     """
-    Limpieza de texto en español. IMPORTANTE: no quitamos las tildes ni la
-    ñ -- solo normalizamos espacios, pasamos a minúsculas y quitamos
-    caracteres que no aporten (signos de puntuación sueltos).
+    Limpieza de texto en español. 
     """
     if not isinstance(text, str):
         raise ValueError("El texto de entrada debe ser una cadena de texto")
@@ -44,10 +38,7 @@ def clean_text(text: str) -> str:
         )
 
     text = text.lower()
-    # Normalizamos unicode (NFC) para evitar problemas con tildes compuestas,
-    # pero NO removemos los acentos -- son significativos en español.
     text = unicodedata.normalize("NFC", text)
-    # Quitamos signos de puntuación, dejamos letras (con tildes/ñ), números y espacios
     text = re.sub(r"[^\w\sáéíóúñü]", " ", text, flags=re.UNICODE)
     text = re.sub(r"\s+", " ", text).strip()
     return text
@@ -60,7 +51,7 @@ def build_pipeline(model) -> Pipeline:
     return Pipeline([
         ("tfidf", TfidfVectorizer(
             preprocessor=clean_text,
-            ngram_range=(1, 2),   # unigramas y bigramas: "no tengo" aporta más que "no" y "tengo" sueltos
+            ngram_range=(1, 2),   
             min_df=2,
             max_features=3000,
         )),

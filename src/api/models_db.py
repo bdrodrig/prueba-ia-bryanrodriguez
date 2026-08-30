@@ -1,7 +1,5 @@
 """
-Modelos ORM (tablas). Todas las tablas con eliminación tienen `is_active`
-para eliminación lógica -- nunca se hace DELETE físico (requisito del
-enunciado: "Eliminaciones: Siempre lógicas").
+Modelos ORM (tablas).
 """
 from datetime import datetime
 from sqlalchemy import (

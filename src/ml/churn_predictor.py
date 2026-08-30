@@ -1,9 +1,6 @@
 """
 Parte 1.2 - Predicción de churn de clientes.
 
-Expone:
-- entrenar_y_evaluar(): EDA, feature engineering, entrena, evalúa, guarda.
-- ChurnPredictor: clase reutilizable para predecir en producción.
 """
 import joblib
 import numpy as np
@@ -27,7 +24,7 @@ MODEL_PATH = "models/churn_predictor.joblib"
 NUMERIC_FEATURES = [
     "monthly_charge", "tenure_months", "total_charges",
     "num_tickets", "avg_satisfaction",
-    "tickets_per_month", "is_new_customer",   # <- features derivados
+    "tickets_per_month", "is_new_customer",   
 ]
 CATEGORICAL_FEATURES = ["plan_type", "contract_type", "payment_method"]
 
@@ -82,7 +79,7 @@ def build_pipeline() -> Pipeline:
     modelo = RandomForestClassifier(
         n_estimators=300,
         max_depth=8,
-        class_weight="balanced",   # <- maneja el desbalanceo (22% churn) sin necesitar SMOTE
+        class_weight="balanced",   
         random_state=42,
     )
 
@@ -123,7 +120,6 @@ def entrenar_y_evaluar(csv_path: str = "data/customers.csv"):
     print("\nReporte de clasificación (umbral 0.5):")
     print(classification_report(y_test, y_pred))
 
-    # Puntos clave de la curva ROC y precision-recall (para graficarlos si se desea)
     fpr, tpr, _ = roc_curve(y_test, y_proba)
     precision, recall, _ = precision_recall_curve(y_test, y_proba)
 

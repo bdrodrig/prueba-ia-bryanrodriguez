@@ -26,10 +26,6 @@ LABEL_ENCODER_PATH = "models/sentiment_label_encoder.pkl"
 def build_model(num_classes: int) -> keras.Model:
     model = keras.Sequential([
         keras.layers.Input(shape=(MAX_LEN,)),
-        # mask_zero=True es clave: le indica a la LSTM que ignore las
-        # posiciones de padding (ceros) en vez de procesarlas como si
-        # fueran palabras reales. Sin esto, con MAX_LEN=200 y frases
-        # cortas, el padding domina la secuencia y el modelo no aprende.
         keras.layers.Embedding(input_dim=VOCAB_SIZE, output_dim=64, mask_zero=True),
         keras.layers.LSTM(64, return_sequences=False),
         keras.layers.Dropout(0.4),
